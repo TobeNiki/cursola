@@ -1,0 +1,12 @@
+transformers
+sentencepiece
+datasets
+torch
+protobuf==3.20.0
+uvicorn
+fastapi
+python-jose
+python-multipart
+SQLAlchemy
+passlib
+bcrypt
